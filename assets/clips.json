@@ -1,98 +1,89 @@
+
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
+    "id": 1,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png"
+    "id": 2,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_@.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
+    "id": 3,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
+    "id": 4,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
+    ],
+    "video": [
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
+    "id": 5,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
+    "id": 6,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    "id": 7,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png",
+    "image": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    "id": 8,
+    "datetime": "1709275482",
+    "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4",
+    "image": [
+    ],
+    "video": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
+    ]
   }
 ]
