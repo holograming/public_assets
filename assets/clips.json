@@ -5,7 +5,9 @@
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png",
     "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png"
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png",
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png",
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
     ],
     "videos": [
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
