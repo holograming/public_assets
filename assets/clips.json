@@ -4,12 +4,10 @@
     "id": 1,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png",
-    "images": [
+    "medias": [
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_1.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png",
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
-    ],
-    "videos": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "aaaaa"
@@ -18,10 +16,8 @@
     "id": 2,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png",
-    "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_@.png"
-    ],
-    "videos": [
+    "medias": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_2.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "bbbbbbbbbbbb"
@@ -30,10 +26,8 @@
     "id": 3,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png",
-    "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png"
-    ],
-    "videos": [
+    "medias": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_3.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "ccccccccccccc"
@@ -42,10 +36,8 @@
     "id": 4,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png",
-    "images": [
+    "medias": [
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_4.png"
-    ],
-    "videos": [
     ],
     "message": "dddddddddddddddd"
   },
@@ -53,10 +45,8 @@
     "id": 5,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png",
-    "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png"
-    ],
-    "videos": [
+    "medias": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_5.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "eeeeeeeeeeeeeeeee"
@@ -65,10 +55,8 @@
     "id": 6,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4",
-    "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
-    ],
-    "videos": [
+    "medias": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "dddddddddddddd"
@@ -77,10 +65,8 @@
     "id": 7,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png",
-    "images": [
-      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png"
-    ],
-    "videos": [
+    "medias": [
+      "https://raw.githubusercontent.com/holograming/public_assets/main/storage/sample_img_6.png",
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "hhhhhhhhhhhhhhhhhhh"
@@ -89,9 +75,7 @@
     "id": 8,
     "datetime": "1709275482",
     "thumbnail": "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4",
-    "images": [
-    ],
-    "videos": [
+    "medias": [
       "https://raw.githubusercontent.com/holograming/public_assets/main/storage/video.mp4"
     ],
     "message": "fffffffffffff"
